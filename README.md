@@ -38,17 +38,17 @@
       width="40" height="40" /> </a> </p>
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=khushboqof&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="khushboqof" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=asliddin13&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="asliddin13" 
     bg_color=#808080/></p>
 <br>
 
 
 <div align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <img alt="GitHub Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=khushboqof&theme=algolia&hide_border=true&count_private=true&show_icons=true">
+    <img alt="GitHub Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=asliddin&theme=algolia&hide_border=true&count_private=true&show_icons=true">
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-    <img alt="GitHub Streak" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=khushboqof&theme=algolia&hide_border=true">
+    <img alt="GitHub Streak" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=asliddin13&theme=algolia&hide_border=true">
 
 </div>
 
